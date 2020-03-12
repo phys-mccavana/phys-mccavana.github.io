@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Medical Physics Rathgar</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2020-03-12T12:00:00+00:00</updated><entry><title>Markdown Example</title><link href="/articles/2020/03/12/markdown-example/" rel="alternate"></link><published>2020-03-12T12:00:00+00:00</published><updated>2020-03-12T12:00:00+00:00</updated><author><name>Pat McCavana</name></author><id>tag:None,2020-03-12:/articles/2020/03/12/markdown-example/</id><summary type="html">&lt;p&gt;Images can be displayed in Markdown.&lt;br&gt;
+Text within the square brackets is the image name. The path to the image goes between the round brackets.&lt;br&gt;
+The {static} tag indicates the image is stored in the content folder. This setting can be changed in pelicanconf.py.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="python logo" src="/img/python_icon.png"&gt;&lt;/p&gt;
+&lt;p&gt;Links to downloadable content such …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Images can be displayed in Markdown.&lt;br&gt;
+Text within the square brackets is the image name. The path to the image goes between the round brackets.&lt;br&gt;
+The {static} tag indicates the image is stored in the content folder. This setting can be changed in pelicanconf.py.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="python logo" src="/img/python_icon.png"&gt;&lt;/p&gt;
+&lt;p&gt;Links to downloadable content such as PDF files are written similarly to image files but with no ! symbol at the beginning.&lt;/p&gt;
+&lt;p&gt;&lt;a href="/pdf/pelican.pdf"&gt;Pelican Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A link to a different blog post on our website is written exactly the same.&lt;br&gt;
+Text within the square brackets can be clicked on to travel to the website between the curly brackets.
+The {filename} tag indicates we want to follow the link to a webpage rather than the static file it was generated from.&lt;/p&gt;
+&lt;p&gt;&lt;a href="/articles/2020/03/12/my-first-post/"&gt;First Post&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Or we can link to another external website by supplying the web address.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://pypi.org"&gt;Python Package Index&lt;/a&gt;&lt;/p&gt;</content><category term="markdown"></category></entry><entry><title>My First Post</title><link href="/articles/2020/03/12/my-first-post/" rel="alternate"></link><published>2020-03-12T00:00:00+00:00</published><updated>2020-03-12T00:00:00+00:00</updated><author><name>Pat McCavana</name></author><id>tag:None,2020-03-12:/articles/2020/03/12/my-first-post/</id><summary type="html">&lt;p&gt;Post content to see in website&lt;/p&gt;</summary><content type="html">&lt;p&gt;Post content to see in website&lt;/p&gt;</content><category term="python"></category><category term="markdown"></category><category term="pelican"></category></entry></feed>
